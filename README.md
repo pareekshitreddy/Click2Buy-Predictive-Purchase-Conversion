@@ -1,4 +1,4 @@
-## Click2Buy-Predictive-Purchase-Conversion
+## Click2Buy: Predictive-Purchase-Conversion
 
 Welcome to the repository for the final project of DS 5220 Supervised Machine Learning at Northeastern University, led by Pareekshit Reddy Gaddam, Deepak Rao Nadipelly and Ziyue Wang
 
